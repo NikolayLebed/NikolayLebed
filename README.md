@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Nikolay
+#### Manual QA Engineer
+I have completed training courses in the field of Manual QA Engineering( test case design, defect reporting,testing methodologies and etc.) 
 
-<!--
-**NikolayLebed/NikolayLebed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills**: POSTMAN / SOAP / JIRA / TestRail / DevTools / SQL / FIGMA
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on esting various web services and mproving my skills 
+- 🌱 I’m currently learning (improving) my knowledge of test case creation techniques and test design techniques. 
+- 💬 Ask me about Ask me anything you want and I will gladly answer 
+- 📫 How to reach me: lebednikolay0@gmail.com 
+- ⚡ Fun fact: I have been living in Bulgaria for more than 10 years and I speak 3 languages: Russian, English, and Bulgarian. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NikolayLebed)  
+
+![Profile views](https://gpvc.arturio.dev/NikolayLebed)  
