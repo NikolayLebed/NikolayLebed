@@ -4,7 +4,7 @@ I have completed training courses in the field of Manual QA Engineering( test ca
 
 **Skills**: POSTMAN / SOAP / JIRA / TestRail / DevTools / SQL / FIGMA
 
-- 🔭 I’m currently working on esting various web services and mproving my skills 
+- 🔭 I’m currently working on testing various web services and mproving my skills 
 - 🌱 I’m currently learning (improving) my knowledge of test case creation techniques and test design techniques. 
 - 💬 Ask me about Ask me anything you want and I will gladly answer 
 - 📫 How to reach me: lebednikolay0@gmail.com 
