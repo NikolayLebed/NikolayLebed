@@ -1,4 +1,4 @@
-[<img src='https://github.com/NikolayLebed/NikolayLebed/blob/main/Make%20your%20README%20(1).png' alt='github' class="responsive" height='300'>](https://github.com/NikolayLebed)  
+[<img src='https://github.com/NikolayLebed/NikolayLebed/blob/main/Make%20your%20README%20(1).png'>](https://github.com/NikolayLebed)  
 I have completed training courses in the field of Manual QA Engineering( test case design, defect reporting,testing methodologies and etc.) 
 
 **Skills**: POSTMAN / SOAP / JIRA / TestRail / DevTools / SQL / FIGMA
