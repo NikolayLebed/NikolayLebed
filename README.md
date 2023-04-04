@@ -1,16 +1,12 @@
 [<img src='https://github.com/NikolayLebed/NikolayLebed/blob/main/Make%20your%20README%20(1).png'>](https://github.com/NikolayLebed)  
 
-👉  I have completed courses in the field of Manual QA Engineering - test case design, defect reporting, testing methodologies, Agile, SDLC, basics of testing with Cucumber ( GIVEN / WHEN / THEN ) etc...
 
 ## Skills: 
 <!-- My:Skills -->
-- 🧑🏻‍💻 POSTMAN / SOAP / REST / JIRA / TestRail / DevTools / SQL / FIGMA
-- 🔭 I’m currently working on testing various web services...
-- 🌱 I’m currently improving my knowledge of test case creation techniques and test design techniques... 
-- 💬 Ask me about anything you want and I will gladly answer :) 
-- 📫 How to reach me: lebednikolay0@gmail.com 
-- ⚡ Languages: Russian, English, and Bulgarian 
-
+- POSTMAN / SOAP / Talent API / REST / JIRA  
+- TestRail / DevTools / SQL / FIGMA / Notion 
+- Swagger / Docker / DBeaver / JSON / XML / HTML
+- Grey Box Testing / E2E Testing / Regression Testing / Scrum and Agile
 
 ## My CV:
 <!-- MY:CV -->
@@ -26,7 +22,13 @@
 <!-- TESTING:DOCUMENTATION -->
 Currently working on it, will add soon.
 
+## Languages:
+<!-- MY:LANGUAGES -->
+Russian, English and Bulgarian 
 
-
+## Contact me:
+<!-- REACH:ME -->
+- 💬 Ask me about anything you want and I will gladly answer :)
+- 📫 lebednikolay0@gmail.com
 
 ![Profile views](https://gpvc.arturio.dev/NikolayLebed)  
