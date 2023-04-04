@@ -1,6 +1,6 @@
 [<img src='https://github.com/NikolayLebed/NikolayLebed/blob/main/Make%20your%20README%20(1).png'>](https://github.com/NikolayLebed)  
 
-👉  I have completed training courses in the field of Manual QA Engineering - test case design, defect reporting, testing methodologies, Agile, SDLC,   basics of testing with Cucumber (GIVEN / WHEN / THEN ) etc...
+👉  I have completed training courses in the field of Manual QA Engineering - test case design, defect reporting, testing methodologies, Agile, SDLC,   basics of testing with Cucumber ( GIVEN / WHEN / THEN ) etc...
 
 ## Skills: 
 <!-- My:Skills -->
