@@ -4,7 +4,7 @@
 
 ## Skills: 
 <!-- My:Skills -->
-- 🧑🏻‍💻 POSTMAN / SOAP / JIRA / TestRail / DevTools / SQL / FIGMA
+- 🧑🏻‍💻 POSTMAN / SOAP / REST / JIRA / TestRail / DevTools / SQL / FIGMA
 - 🔭 I’m currently working on testing various web services...
 - 🌱 I’m currently improving my knowledge of test case creation techniques and test design techniques... 
 - 💬 Ask me about anything you want and I will gladly answer :) 
