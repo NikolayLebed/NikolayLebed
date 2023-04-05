@@ -20,7 +20,7 @@
 
 ## Testing Documentation:
 <!-- TESTING:DOCUMENTATION -->
-Currently working on it, will add soon
+Currently working on:
 [Example of Test-Cases and Bug-Report](https://docs.google.com/spreadsheets/d/1FR8HssK8MT61WGqEds3FsAlrWZCilMouyfQTs1GYeJs/edit?usp=sharing)
 
 ## Languages:
