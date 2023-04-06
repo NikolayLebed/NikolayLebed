@@ -32,4 +32,3 @@ Russian, English and Bulgarian
 - 💬 Ask me about anything you want and I will gladly answer :)
 - 📫 lebednikolay0@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/NikolayLebed)  
