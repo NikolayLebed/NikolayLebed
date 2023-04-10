@@ -1,7 +1,7 @@
 [<img src='https://github.com/NikolayLebed/NikolayLebed/blob/main/Make%20your%20README%20(1).png'>](https://github.com/NikolayLebed)  
 
 
-## Skills: 
+## Skills & Tools: 
 <!-- My:Skills -->
 - POSTMAN / SOAP / Talent API / REST / JIRA  
 - TestRail / DevTools / SQL / FIGMA / Notion 
